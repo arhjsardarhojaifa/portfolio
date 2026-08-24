@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arhjsardarhojaifa.github.io/portfolio/sitemap.xml

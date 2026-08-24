@@ -1,0 +1,26 @@
+SEO-READY HTML FILES
+
+Replace the files with the same names in the ROOT of your GitHub portfolio repository.
+
+Files changed:
+- index.html
+- my-story.html
+- destinations.html
+- stories.html
+- story-saint-martin.html
+- story-coxs-bazar.html
+- story-sitakunda.html
+- contact.html
+- blog.html
+- faq.html
+
+What was added:
+- author meta tag
+- robots indexing directive
+- Open Graph site name
+- Person/WebSite/WebPage structured data on the homepage
+- AboutPage/CollectionPage/ContactPage structured data on supporting pages
+- Article structured data on the three travel stories
+- noindex,follow on the old FAQ/Blog redirect pages
+
+Your visual design, page text, CSS, JavaScript, images and navigation were not changed.
